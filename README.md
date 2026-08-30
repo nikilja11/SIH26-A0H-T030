@@ -41,4 +41,4 @@
 * **Problem Statement ID: SIH26068**
 * **Problem Statement Title: WeatherGPT: Conversational AI for Weather Forecasting, Alerts, and Climate Information**
 * **Theme / Category: Disaster Management**
-* **Ministry / Organization: Ministry of Earth Sciences (MoES) **
+* **Ministry / Organization: Ministry of Earth Sciences (MoES)**
