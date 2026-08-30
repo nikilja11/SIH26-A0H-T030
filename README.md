@@ -11,12 +11,12 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |       NIKIL J A         |    CB.SC.U4SCE26434    |       Male      |              CSE                |  
-|    Member 2     |    A. Arya Sudharsana   |    CB.EN.U4ECE26001    |      Female     |              ECE                |  
-|    Member 3     |       Baarghav A V      |    CB.EN.U4ECE26008    |       Male      |              ECE                |  
-|    Member 4     |      Rithu Avantika     |    CB.SC.U4CSE26546    |      Female     |              CSE                |   
-|    Member 5     |    Akshay Padmanabhan   |    CB.EN.U4ELC26004    |       Male      |                              |  
-|    Member 6     |        P Pranav         |    CB.AI.U4CPS26040    |       Male      |                                 |   
+|   Team Leader   |       NIKIL J A         |    CB.SC.U4SCE26434    |       Male      |           B.TECH CSE            |  
+|    Member 2     |    A. Arya Sudharsana   |    CB.EN.U4ECE26001    |      Female     |           B.TECH ECE            |  
+|    Member 3     |       Baarghav A V      |    CB.EN.U4ECE26008    |       Male      |           B.TECH ECE            |  
+|    Member 4     |      Rithu Avantika     |    CB.SC.U4CSE26546    |      Female     |           B.TECH CSE            |   
+|    Member 5     |    Akshay Padmanabhan   |    CB.EN.U4ELC26004    |       Male      |           B.TECH ELC            |  
+|    Member 6     |        P Pranav         |    CB.AI.U4CPS26040    |       Male      |           B.TECH AIDS (CPSS)   |   
 
 #### Mentor Details
 
@@ -31,10 +31,10 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:SIH26016**
+* **Problem Statement Title: Real-Time National Land Acquisition & Management System for End-to-End Digital Monitoring and Decision Support**
+* **Theme / Category: Smart Automation**
+* **Ministry / Organization: Ministry of Rural Development**, wherever applicable
 
 #### PS#2
 
