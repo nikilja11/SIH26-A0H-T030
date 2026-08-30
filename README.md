@@ -38,7 +38,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID: SIH26068**
+* **Problem Statement Title: WeatherGPT: Conversational AI for Weather Forecasting, Alerts, and Climate Information**
+* **Theme / Category: Disaster Management**
+* **Ministry / Organization: Ministry of Earth Sciences (MoES) **
