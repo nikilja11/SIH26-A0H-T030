@@ -34,7 +34,7 @@
 * **Problem Statement ID:SIH26016**
 * **Problem Statement Title: Real-Time National Land Acquisition & Management System for End-to-End Digital Monitoring and Decision Support**
 * **Theme / Category: Smart Automation**
-* **Ministry / Organization: Ministry of Rural Development**, wherever applicable
+* **Ministry / Organization: Ministry of Rural Development**
 
 #### PS#2
 
